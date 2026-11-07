@@ -1,0 +1,4 @@
+1. Crear un repositorio remoto.
+2. Clonar el repositorio en el equipo local.
+3. Trabajar con ramas y confirmaciones.
+4. Fusionar cambios y sincronizar con GitHub.

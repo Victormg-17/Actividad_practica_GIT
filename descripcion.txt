@@ -1,0 +1,2 @@
+Proyecto creado para la actividad práctica de Git y GitHub de CEUPE.
+Objetivo: aprender a gestionar archivos, ramas y confirmaciones.
